@@ -1,4 +1,4 @@
-package Array_Day3_Assingment;
+package Array_Day3_Assingment.Day3;
 
 public class DuplicateElementArray {
 	public static void main(String[] args) {
